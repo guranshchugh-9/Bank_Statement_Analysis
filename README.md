@@ -20,7 +20,7 @@ A streamlined end-to-end pipeline that converts your PDF bank statement into cle
 | **🗂️ Transaction Categorization**      | Tags each transaction into categories like Groceries, Rent, Utilities. |
 | **📊 Financial Summary**               | Computes total income/expenses, average savings, spending trends. |
 | **📈 Visualizations**                  | • Pie chart: Expense breakdown by category  
-• Line graph: Monthly income vs. expenses |
+                                         | • Line graph: Monthly income vs. expenses
 
 ---
 
