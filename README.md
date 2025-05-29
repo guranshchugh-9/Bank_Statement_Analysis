@@ -9,6 +9,9 @@
 ## 🌟 Overview
 A streamlined end-to-end pipeline that converts your PDF bank statement into clean, categorized data and actionable visual insights. Track your income vs. expenses, see category-wise spending breakdowns, and integrate with any backend.
 
+## 🔄 Workflow Diagram
+![Bank Statement Analysis Workflow](assets/workflow_diagram.png)
+
 ---
 
 ## ✨ Key Features
