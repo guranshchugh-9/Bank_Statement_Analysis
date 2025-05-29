@@ -138,6 +138,5 @@ Distributed under the MIT License. See `LICENSE` for details.
 ---
 
 <div align="center">
-  Made with ❤️ by **Your Name**  
-  [Report Bug](https://github.com/yourusername/bank-statement-analyzer/issues) · [Request Feature](https://github.com/yourusername/bank-statement-analyzer/discussions)
+  Made with ❤️ by Guransh Chugh 
 </div>
