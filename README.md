@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3.7%2B-blue" alt="Python">
   <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
-  <img src="https://img-shields.io/badge/Workflow-PDF→Excel→CSV→Visualization-orange" alt="Workflow">
+  <img src="https://img.shields.io/badge/Workflow-PDF→Excel→CSV→Visualization-orange" alt="Workflow">
 </div>
 
 ## 🌟 Overview
@@ -113,10 +113,10 @@ plot_line(summary, output="processed_files/monthly_income_vs_expenses_line.png")
 ## 🧩 Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-pandas-lightgrey" alt="pandas">
-  <img src="https://img.shields.io/badge/Visualization-matplotlib-lightgrey" alt="matplotlib">
-  <img src="https://img.shields.io/badge/PDF-OCR_pdfplumber-lightgrey" alt="pdfplumber">
-  <img src="https://img.shields.io/badge/Web%20API-Flask%2FFastAPI-lightgrey" alt="Flask/FastAPI">
+  <img src="https://img.shields.io/badge/Python-pandas-orange" alt="pandas">
+  <img src="https://img.shields.io/badge/Visualization-matplotlib-red" alt="matplotlib">
+  <img src="https://img.shields.io/badge/PDF-OCR_pdfplumber-blue" alt="pdfplumber">
+  <img src="https://img.shields.io/badge/Web%20API-Flask%2FFastAPI-blue" alt="Flask/FastAPI">
 </div>
 
 ---
@@ -137,6 +137,5 @@ Distributed under the MIT License. See `LICENSE` for details.
 
 ---
 
-<div align="center">
-  Made with ❤️ by Guransh Chugh 
-</div>
+<div align="center"> Made with ❤️ by **Your Name** [Report Bug](https://github.com/yourusername/bank-statement-analyzer/issues) · [Request Feature](https://github.com/yourusername/bank-statement-analyzer/discussions) </div> 
+```
